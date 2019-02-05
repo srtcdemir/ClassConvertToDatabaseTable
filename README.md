@@ -1,5 +1,3 @@
-test
-
 # Class Convert To Mysql Database Table
 
 Php Oluşturulan sınıfları database tablosuna dönüştüren ve bunlara kullanmaya olanak sağlayan yapı.
